@@ -1,5 +1,5 @@
 # 😁 About Me:
-<br>- 🔭 I’m currently working on [amazon-project](https://github.com/Piperski13/amazon-project)<br><br>- 🌱 I’m currently learning **Backend fundamentals / React**<br><br>- 🤝 I’m looking for help with **Mastering Practical Site Building**<br><br>- 💬 Ask me about **JS**<br><br>- 📫 How to reach me **mr.alexpiperski@gmail.com**<br><br>- ⚡ Fun fact **Approximately 97.7% of all websites use JavaScript**
+<br>- 🔭 I’m currently working on [amazon-project](https://github.com/Piperski13/amazon-project)<br><br>- 🌱 I’m currently learning **Backend fundamentals / React**<br><br>- 🤝 I’m looking for help with **Mastering Practical Site Building**<br><br>- 📫 How to reach me **mr.alexpiperski@gmail.com**<br><br>- ⚡ Fun fact **Approximately 97.7% of all websites use JavaScript**
 
 
 ## 🌐 Socials:
