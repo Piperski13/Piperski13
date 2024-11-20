@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski) 
 
 # 💻 Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,postgres,jest,postman,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,jest,postman,git,vscode)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats :
