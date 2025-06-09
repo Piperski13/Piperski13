@@ -14,6 +14,13 @@
 # 💻 Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,express,postgres,jest,postman,git,vscode)](https://skillicons.dev)
 
+#
+<p align="left">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce badge" />
+</p>
+<p align="left">
+  Certified CC B2C Developer
+</p>
 
 # 📊 GitHub Stats :
 <p align="left">
