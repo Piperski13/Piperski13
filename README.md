@@ -18,7 +18,7 @@
 
 # 💻 Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express)](https://skillicons.dev)
-<img src="ejs-96.png" alt="EJS" width="47" height="47" style="vertical-align: middle;"/>
+<img src="assets/icons/ejs-96.png" alt="EJS" width="47" height="47" style="vertical-align: middle;"/>
 [![My Skills](https://skillicons.dev/icons?i=postgres,jest,postman,git,vscode)](https://skillicons.dev)
 
 #
