@@ -1,7 +1,7 @@
 ## 💻 Welcome:
 
 - **This is my personal github for my personal projects**
-<p align="center">🔽🔽🔽</p>
+ <p align="center">🔽🔽🔽</p>
 
 ## 🚀 About Me:
 
