@@ -25,14 +25,16 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski) 
 
-# 💻 Tech Stack :
+## 💻 Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express,postgres,redis,supabase,jest,docker,postman,git,vscode&perline=5)](https://skillicons.dev)
-<p align="left">
-  Certified CC B2C Developer:
-</p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce badge" />
 </p>
+<p align="center">
+  Certified CC B2C Developer section
+</p>
+
+---
 
 ## 📊 GitHub Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Piperski13&theme=neon-dark)](https://git.io/streak-stats)
