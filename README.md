@@ -68,10 +68,9 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
   Certified CC B2C Developer
 </p>
 
-# 📊 GitHub Stats :
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piperski13&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" style="padding: 10px;"/>
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)
+## 📊 GitHub Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Piperski13&theme=neon-dark)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)
