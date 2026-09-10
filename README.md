@@ -71,7 +71,7 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 # 📊 GitHub Stats :
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piperski13&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" style="padding: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piperski13&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"   style="padding-left: 10px;"/>
-</p>
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)
