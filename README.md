@@ -23,7 +23,8 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 ---
 
 ## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.alexpiperski@gmail.com)
 
 ## 💻 Tech Stack :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express,postgres,redis,supabase,jest,docker,postman,git,vscode&perline=5)](https://skillicons.dev)
