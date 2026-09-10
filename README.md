@@ -26,11 +26,7 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski) 
 
 # 💻 Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express)](https://skillicons.dev)
-<img src="assets/icons/ejs-96.png" alt="EJS" width="47" height="47" style="vertical-align: middle;"/>
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,jest,docker,postman,git,vscode)](https://skillicons.dev)
-
-#
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express,postgres,redis,jest,docker,postman,git,vscode&perline=5)](https://skillicons.dev)
 <p align="left">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce badge" />
 </p>
