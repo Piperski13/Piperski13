@@ -14,36 +14,6 @@ My current stack revolves around **Node.js, PostgreSQL, React, and Docker**, and
 
 ---
 
-### [Featured Project - DataSpace](https://github.com/Piperski13/DataSpace)
-
-DataSpace is my main portfolio project and an ongoing full-stack web application **built to explore how a real-world application can be structured, developed, tested, and deployed.**
-
-Rather than focusing only on CRUD functionality, **the project emphasizes backend architecture, data management, authentication, authorization, infrastructure, and maintainability.**
-
-### [Technology - DataSpace](https://github.com/Piperski13/DataSpace)
-
-`Node.js · Express · PostgreSQL · Redis · EJS · React · Docker`
-
-### [Engineering Focus - Dataspace](https://github.com/Piperski13/DataSpace)
-
-- Layered backend architecture: Controller → Service → Repository
-- RESTful API design
-- PostgreSQL database design and migrations
-- Authentication and authorization
-- Session management with Redis
-- File uploads and access control
-- Input validation and centralized error handling
-- Automated testing
-- Dockerized development environment
-- Production deployment
-- Basic CI/CD and DevOps practices
-
-The project has evolved through continuous development and **refactoring**, with a strong emphasis on **understanding why particular architectural and implementation decisions are made.**
-
-🌐 [View DataSpace Live](https://dataspace.onrender.com)
-
----
-
 ## 🗿 About Me
 
 I'm interested in backend and full-stack **software engineering**, especially building applications where **architecture, data, APIs, and reliability are important.**
