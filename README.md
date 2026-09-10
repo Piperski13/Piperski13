@@ -10,6 +10,8 @@ My current stack revolves around **Node.js, PostgreSQL, React, and Docker**, and
 
 [DataSpace](https://github.com/Piperski13/DataSpace)  is my main project and the best example of that process.
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Piperski13&repo=Piperski13%2FDataSpace&show_owner=true&theme=neon)](https://github.com/Piperski13/DataSpace)
+
 ---
 
 ### [Featured Project - DataSpace](https://github.com/Piperski13/DataSpace)
@@ -37,8 +39,6 @@ Rather than focusing only on CRUD functionality, **the project emphasizes backen
 - Basic CI/CD and DevOps practices
 
 The project has evolved through continuous development and **refactoring**, with a strong emphasis on **understanding why particular architectural and implementation decisions are made.**
-
-🔗 [View DataSpace Repository](https://github.com/Piperski13/DataSpace)
 
 🌐 [View DataSpace Live](https://dataspace.onrender.com)
 
