@@ -55,7 +55,7 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 
 ## 📊 GitHub Stats :
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Piperski13&theme=neon-dark" alt="GitHub Streak" width="600" />
+  <img src="https://streak-stats.demolab.com?user=Piperski13&theme=neon" alt="GitHub Streak" width="600" />
 </p>
 
 <p align="center">
