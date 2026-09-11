@@ -23,16 +23,26 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 ---
 
 ## 🌐 Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksapiperski)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.alexpiperski@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/aleksapiperski">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mr.alexpiperski@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ## 💻 Tech Stack :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express,postgres,redis,supabase,jest,docker,postman,git,vscode&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,react,express,postgres,redis,supabase,jest,docker,postman,git,vscode&perline=5" alt="Tech Stack" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce badge" />
-</p>
-<p align="center">
-  Certified CC B2C Developer section
+  <br>
+  <strong>Certified B2C Commerce Developer</strong>
 </p>
 
 ---
