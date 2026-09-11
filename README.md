@@ -36,6 +36,8 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
   </a>
 </p>
 
+---
+
 ## 💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
