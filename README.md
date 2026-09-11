@@ -10,7 +10,11 @@ My current stack revolves around **Node.js, PostgreSQL, React, and Docker**, and
 
 [DataSpace](https://github.com/Piperski13/DataSpace)  is my main project and the best example of that process.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Piperski13&repo=Piperski13%2FDataSpace&show_owner=true&theme=neon)](https://github.com/Piperski13/DataSpace)
+<p align="center">
+  <a href="https://github.com/Piperski13/DataSpace">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Piperski13&repo=Piperski13%2FDataSpace&show_owner=true&theme=neon" alt="DataSpace GitHub Repository" />
+  </a>
+</p>
 
 ---
 
@@ -48,8 +52,11 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 ---
 
 ## 📊 GitHub Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Piperski13&theme=neon-dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Piperski13&theme=neon-dark" alt="GitHub Streak" width="600" />
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Piperski13&include_all_commits=true&theme=neon" alt="GitHub Stats" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Piperski13&layout=compact&langs_count=4&theme=neon" alt="Top Languages" width="388" />
+</p>
