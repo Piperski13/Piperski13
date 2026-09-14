@@ -26,8 +26,12 @@ I'm looking for opportunities to work on real-world software, **contribute to a 
 
 ---
 
-## 🌐 Socials :
+## 🌐 Socials
+
 <p align="center">
+  <a href="https://portfolio-aleksa-piperski.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/aleksapiperski">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
